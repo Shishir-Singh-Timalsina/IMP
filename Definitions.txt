@@ -1,0 +1,20 @@
+HTML : 		Hypertext markup language was created to make web pages.
+
+CSS :		Cascading style sheet is used along html to make asthetic
+		design elemet of the web page(color, background, size etc.).
+
+Javascript: 	Javascript is a programmming language initially designed for web page.
+		In recent time this language has become very popular in development in
+		software and programs in othe platforms as well.
+
+HTTP:		HTTP is most widely used protocal used for communication and data transfer.
+
+HTML5:		HTML5 is updated version than HTML to meet the required of the present times.
+		(Audio, video)
+
+Dynamic HTML (DHTML):	HTML are simpler and static web pages which need less conection with DAtabase.
+			Whereas in DHTML web pages may be dyanmic, have connection with server side and 
+			may require connection with database.
+
+
+https://www.w3.org/TR/html5/single-page.html#a-quick-introduction-to-html
